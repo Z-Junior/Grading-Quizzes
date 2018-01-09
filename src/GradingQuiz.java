@@ -1,3 +1,8 @@
+/**
+ * @author Z
+ * @since January 8 2018
+ */
+
 import java.util.Scanner;
 
 public class GradingQuiz
